@@ -7,6 +7,7 @@ Test of two different multi-object trackers:
 Comparative testing done with YOLOv3/YOLOv2/TinyYOLO.
 
 Cross-line counter (YOLOv3):
+
 ![](gifs/crossline-counter-yolov3.gif)
 
 ## Download YOLO weights and COCO dataset labels
