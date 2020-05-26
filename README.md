@@ -8,7 +8,7 @@ Comparative testing done with YOLOv3/YOLOv2/TinyYOLO.
 
 Cross-line counter (YOLOv3):
 
-![](gifs/crossline-counter-yolov3.gif)
+![](gifs/counter.gif)
 
 ## Download YOLO weights and COCO dataset labels
 https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
