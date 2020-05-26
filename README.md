@@ -11,5 +11,7 @@ Cross-line counter (YOLOv3):
 
 ## Download YOLO weights and COCO dataset labels
 https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
+
 https://pjreddie.com/media/files/yolov3.weights
+
 https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
